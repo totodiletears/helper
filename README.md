@@ -1,8 +1,8 @@
 # HELPER CONTRACT
 
-abi in artifacts/contracts/Helper.sol
-deployed helpers in info.txt
-main function is helper.getIdArray(address user) returns array
+abi in artifacts/contracts/Helper.sol<br /><br />
+deployed helpers in info.txt<br /><br />
+main function is helper.getIdArray(address user) returns array<br /><br /><br /><br />
 
 ```shell
 TO RUN PROGRAM (configured for harmony testnet)
